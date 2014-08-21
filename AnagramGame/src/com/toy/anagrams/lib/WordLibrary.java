@@ -32,10 +32,6 @@
 package com.toy.anagrams.lib;
 
 /**
- * Dit is een test
- */
-
-/**
  * Interface defining logic for the Anagram Game application.
  */
 public abstract class WordLibrary {
