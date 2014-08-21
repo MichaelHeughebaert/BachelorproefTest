@@ -31,6 +31,8 @@
 
 package com.toy.anagrams.lib;
 
+test
+
 /**
  * Interface defining logic for the Anagram Game application.
  */
